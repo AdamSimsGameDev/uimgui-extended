@@ -1,9 +1,9 @@
 {
-  "name": "com.ycatdev.uimgui.extended",
+  "name": "com.adamsimsgamedev.uimgui.extended",
   "displayName": "UImGui Extended",
   "version": "6.0.0",
   "description": "Extended Unity wrapper for ImGUI.NET",
-  "unity": "2019.4",
+  "unity": "6000.4",
   "dependencies": {
   },
   "keywords": [
@@ -12,12 +12,12 @@
     "ui"
   ],
   "author": {
-    "name": "yCatDev",
-    "url": "https://github.com/ycatdev"
+    "name": "AdamSimsGameDev",
+    "url": "https://github.com/AdamSimsGameDev"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yCatDev/uimgui-extended",
+    "url": "https://github.com/AdamSimsGameDev/uimgui-extended",
     "revision": ""
   }
 }
